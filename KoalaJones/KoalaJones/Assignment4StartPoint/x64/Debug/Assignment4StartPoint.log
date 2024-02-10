@@ -1,0 +1,7 @@
+﻿  MyProject.cpp
+  SpriteType.cpp
+C:\Users\barne\Desktop\Courses\2020 - Winter\GAME1111\Assignments\Assignment 4\Assignment4\Assignment4-StartPoint\Assignment4StartPoint\Assignment4StartPoint\MyProject.h(14,10): error C1083:  Cannot open include file: 'SpriteBatch.h': No such file or directory
+  WinMain.cpp
+C:\Users\barne\Desktop\Courses\2020 - Winter\GAME1111\Assignments\Assignment 4\Assignment4\Assignment4-StartPoint\Assignment4StartPoint\Assignment4StartPoint\SpriteType.h(7,10): error C1083:  Cannot open include file: 'DirectX.h': No such file or directory
+  Generating Code...
+C:\Users\barne\Desktop\Courses\2020 - Winter\GAME1111\Assignments\Assignment 4\Assignment4\Assignment4-StartPoint\Assignment4StartPoint\Assignment4StartPoint\MyProject.h(14,10): error C1083:  Cannot open include file: 'SpriteBatch.h': No such file or directory
